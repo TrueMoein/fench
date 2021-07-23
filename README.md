@@ -1,3 +1,9 @@
-# use fench for better fetch... jik jik!
+<div style="text-align: center;"> 
+### use fench for better fetch... jik jik!
+</div>
 
-![fench](https://raw.githubusercontent.com/TrueMoein/fench/main/assets/images/fench.png)
+---
+
+<div style="text-align: center;"> 
+  <img width="100" src="https://raw.githubusercontent.com/TrueMoein/fench/main/assets/images/fench.png" />
+</div>
